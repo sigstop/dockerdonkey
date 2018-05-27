@@ -1,7 +1,6 @@
 lxml
 h5py
 numexpr
-dateutil
 tz
 bs4
 xlrd
@@ -14,5 +13,4 @@ numpy
 matplotlib
 scipy
 pandas
-tensorflow
 keras
